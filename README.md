@@ -1,5 +1,5 @@
 ### casual-interviewとは
-* 友人が作成したカジュアル面談に関する[技術同人誌「エンジニアのためのカジュアル面談のトリセツ」](https://gishohaku.dev/gishohaku5/circles/zevU9CtUnAoDni4Dm1LI)に寄稿した文章
+* 友人が作成したカジュアル面談に関する[技術同人誌「エンジニアのためのカジュアル面談のトリセツ」](https://gishohaku.dev/gishohaku5/circles/zevU9CtUnAoDni4Dm1LI)に寄稿した文章をまとめたリポジトリ
 
 ### 作成の背景
 * 著者である友人がカジュアル面談の体験談を集めており、当時頻繁に面談を受けていたため、それらの振り返りとして言語化するために作文
