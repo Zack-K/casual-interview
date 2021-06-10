@@ -7,5 +7,5 @@
 * 私だけでなく企業側の行動も振り返り、どうすれば「良い」カジュアル面談になるのかを考えてみた
 
 ### 文章
-* [こちら](https://github.com/Zack-K/casual-interview/blob/master/chapter-interviewee.md)から読むことができます。  
+* [こちらのchapter-interviewee.md](https://github.com/Zack-K/casual-interview/blob/master/chapter-interviewee.md)から読むことができます。  
 * 上記本文は寄稿した文章の基になっています。しかし、体裁等は紙面とは異なります。
